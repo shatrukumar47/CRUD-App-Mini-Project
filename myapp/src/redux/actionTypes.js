@@ -1,0 +1,9 @@
+
+export const TODO_REQUEST = "TODO_REQUEST";
+export const TODO_FAILURE = "TODO_FAILURE";
+export const TODO_GET_SUCCESS = "TODO_GET_SUCCESS";
+
+export const TODO_POST_SUCCESS = "TODO_POST_SUCCESS";
+export const TODO_DELETE = "TODO_DELETE";
+
+export const SINGLE_TODO_SUCCESS = "SINGLE_TODO_SUCCESS";

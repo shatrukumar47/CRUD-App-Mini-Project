@@ -1,8 +1,7 @@
-
-.Container{
-  width: 95%;
-  margin: auto;
+.App {
+  text-align: center;
 }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

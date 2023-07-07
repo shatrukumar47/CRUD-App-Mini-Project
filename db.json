@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "name": "Killer Shirt",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/f/c/u/m-2122-fs-herringe-k071fsslndr-bk-killer-original-imagpcbztkyzrsgp.jpeg?q=70",
+      "price": 999,
+      "brand": "Killer",
+      "gender": "male",
+      "category": "topwear",
+      "color": "red",
+      "id": 2
+    },
+    {
+      "name": "Women Pure Cotton Pink T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/t/n/4/-original-imagmh867cg2qzmn.jpeg?q=70",
+      "price": 800,
+      "brand": "LEVI'S",
+      "gender": "female",
+      "category": "topwear",
+      "color": "red",
+      "id": 3
+    },
+    {
+      "name": "Men Regular Fit Beige Cotton Blend Trousers",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/t/b/2/-original-imagk8q4krx6e7dv.jpeg?q=70",
+      "price": 6999,
+      "brand": "Calvin Klein Jeans",
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "id": 6
+    },
+    {
+      "name": "Men Slim Mid Rise Light Blue Jeans",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/o/v/e/38-hljn001186-highlander-original-imafzhhzcawggcgg-bb.jpeg?q=70",
+      "price": 631,
+      "brand": "HIGHLANDER",
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "id": 8
+    },
+    {
+      "name": "Velcro Strappy Sandals For Boys & Girls  (Pink)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-sandal/c/9/8/-original-imaghugvxvcgjkbd.jpeg?q=70",
+      "price": 500,
+      "brand": "Bata",
+      "gender": "kids",
+      "category": "footwear",
+      "color": "red",
+      "id": 14
+    },
+    {
+      "name": "AIR ZOOM PEGASUS 39 Running Shoes For Men  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/2/a/-original-imagpfdvejhbdncr.jpeg?q=70",
+      "price": 10449,
+      "brand": "NIKE",
+      "gender": "male",
+      "category": "footwear",
+      "color": "white",
+      "id": 16
+    },
+    {
+      "name": "AIR MAX 270 Running Shoes For Men  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/p/g/-original-imagzry3zk7t5ge8.jpeg?q=70",
+      "price": 10216,
+      "brand": "NIKE",
+      "gender": "male",
+      "category": "footwear",
+      "color": "black",
+      "id": 17
+    },
+    {
+      "name": "Crocs@Work Casuals For Women  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/sandal/i/x/z/-original-imagg5ucgzggcfwr.jpeg?q=70",
+      "price": 1249,
+      "brand": "CROCS",
+      "gender": "female",
+      "category": "footwear",
+      "color": "black",
+      "id": 18
+    },
+    {
+      "name": "Cat Graphic Tee Men Printed Crew Neck Cotton Blend White T-Shirt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/n/b/1/m-67504502-puma-original-imaghu4nakzxdcwy.jpeg?q=70",
+      "price": 629,
+      "brand": "Puma",
+      "gender": "male",
+      "category": "topwear",
+      "color": "white",
+      "id": 19
+    },
+    {
+      "name": "Cat Graphic Tee Men Printed Crew Neck Cotton Blend Black T-Shirt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/q/n/m-67504501-puma-original-imaghu4uh2f5uyqw.jpeg?q=70",
+      "price": 799,
+      "brand": "Puma",
+      "gender": "male",
+      "category": "topwear",
+      "color": "black",
+      "id": 20
+    },
+    {
+      "name": "x1DER Design Core Tee II Men Solid Round Neck Cotton Blend Red T-Shirt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l5h2xe80/t-shirt/q/n/w/m-67286523-puma-original-imagg5y9ekvfqyh2.jpeg?q=70",
+      "price": 599,
+      "brand": "Puma",
+      "gender": "male",
+      "category": "topwear",
+      "color": "red",
+      "id": 21
+    },
+    {
+      "name": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/s/r/y/l-hlsh014395-highlander-original-imagztg6ukcbxseb.jpeg?q=70",
+      "price": 524,
+      "brand": "HIGHLANDER",
+      "gender": "male",
+      "category": "topwear",
+      "color": "green",
+      "id": 22
+    },
+    {
+      "name": "Men Slim Fit Printed Cut Away Collar Casual Shirt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kbpeoi80/shirt/d/o/2/m-hlsh011678-highlander-original-imafszkeg2ezrzhm.jpeg?q=70",
+      "price": 367,
+      "brand": "HIGHLANDER",
+      "gender": "male",
+      "category": "topwear",
+      "color": "green",
+      "id": 23
+    },
+    {
+      "name": "Solid Men Blue Sports Shorts",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/short/1/1/x/m-ck0451-480-nike-original-imag27ayj88wb9jj-bb.jpeg?q=70",
+      "price": 889,
+      "brand": "NIKE",
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "id": 24
+    }
+  ]
+}
